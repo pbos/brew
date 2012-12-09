@@ -7,12 +7,12 @@ Target Volume: 10L
 
 Ingredients
 -----------
-* 2kg Viking Pale Ale Malt
-* 1.5dl CaraMünich Malt
-* 1.5dl Pale Crystal Malt
+* 2kg Pale Ale Malt (Viking)
+* 1.5dl Caramünch Malt (Weyermann)
+* 1.5dl Pale Crystal Malt (Thomas Fawcett)
 * 50 (40+10)g Cascade Hops
 * 225g Blackberries
-* 10g Safale S-04 Yeast
+* 11.5g Safale S-04 Yeast
 
 Steps
 -----
