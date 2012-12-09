@@ -1,6 +1,8 @@
 Bramble Blast
 =============
 
+Brew Date: 2012-12-09
+
 Target Volume: 10L
 
 Ingredients
