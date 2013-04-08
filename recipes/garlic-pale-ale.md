@@ -1,5 +1,5 @@
-Bramble Blast
-=============
+Garlic Pale Ale
+===============
 
 Brew Date: 2013-03-24
 
