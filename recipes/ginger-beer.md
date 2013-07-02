@@ -1,5 +1,5 @@
-Bramble Blast
-=============
+Ginger Beer
+===========
 
 Brewed on 2013-01-20 with Arvid and Johanna.
 
