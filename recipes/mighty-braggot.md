@@ -5,10 +5,10 @@ Pretty much Schramm's braggot recipe from The Compleat Meadmaker, with some slig
 
 Brew Date: 2013-07-20
 
-Target Volume:  25L
-Target OG:      1.125
-Target FG:      1.035
-Target abv:     12% 
+Target Volume:  25L  
+Target OG:      1.125  
+Target FG:      1.035  
+Target abv:     12%  
 
 Ingredients
 -----------
