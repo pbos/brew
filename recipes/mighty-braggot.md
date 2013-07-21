@@ -1,7 +1,7 @@
 Mighty Braggot
 =============
 
-Pretty much Schramm's braggot recipe from The Compleat Meadmaker, with some slight differences
+Pretty much Schramm's braggot recipe from The Compleat Meadmaker.
 
 Brew Date: 2013-07-20
 
