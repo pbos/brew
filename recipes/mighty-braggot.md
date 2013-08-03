@@ -46,8 +46,8 @@ Steps
 Measurements
 ------------
 
-OG:           1.122@32C (1.125)
-SG@2 Weeks:   1.050@24C (1.051)
+OG:           1.122@32C (1.125)   
+SG@2 Weeks:   1.050@24C (1.051)   
 
 Additional Notes
 ----------------
