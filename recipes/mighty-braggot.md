@@ -42,3 +42,13 @@ Steps
 18. Take a gravity reading, we're aiming for ~1.035 which will result in a splendid ~12% abv!
 19. Either bottle now, or rack and let it clarify and bottle later.
 20. Enjoy a nice cold braggot.
+
+Measurements
+------------
+
+OG:           1.122@32C (1.125)
+SG@2 Weeks:   1.050@24C (1.051)
+
+Additional Notes
+----------------
+This beer stinks like hell when fermenting apparently?
