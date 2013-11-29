@@ -1,4 +1,4 @@
-Mighty Braggot
+﻿Mighty Braggot
 =============
 
 Pretty much Schramm's braggot recipe from The Compleat Meadmaker.
@@ -47,8 +47,12 @@ Measurements
 ------------
 
 OG:           1.122@32C (1.125)   
-SG@2 Weeks:   1.050@24C (1.051)   
+SG@2 Weeks:   1.050@24C (1.051)
+FG@19 Weeks   1.030@21C (1.030)
+Final ABV:    12.8%!
 
 Additional Notes
 ----------------
-This beer stinks like hell when fermenting apparently?
+This beer stinks like hell when fermenting apparently? (Note: Settles after ~12 Weeks)
+The honey really takes over the final taste, future versions could up the ratio of malt to honey.
+This recipe might really benefit from dry-hopping, the aroma is very simple and malty (reminiscent of toast bread?)
