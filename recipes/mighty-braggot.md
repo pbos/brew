@@ -53,6 +53,6 @@ Final ABV:    12.8%!
 
 Additional Notes
 ----------------
-This beer stinks like hell when fermenting apparently? (Note: Settles after ~12 Weeks)
-The honey really takes over the final taste, future versions could up the ratio of malt to honey and add more hops.
-This recipe might really benefit from dry-hopping, the aroma is very simple and malty (reminiscent of toast bread?)
+This beer stinks like hell when fermenting apparently? (Note: Settles after ~12 Weeks).  
+The honey really takes over the final taste, future versions could up the ratio of malt to honey and add more hops.  
+This recipe might really benefit from dry-hopping, the aroma is very simple and malty (reminiscent of toast bread?).  
