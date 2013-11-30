@@ -18,7 +18,7 @@ Ingredients
 * 190g Cascade Hops
 * 5.4kg Honey (Get a honey with a strong aroma!)
 * 1 tbsp yeast nutrient
-* 1-2 vial(s) White Labs Edinburgh Ale Yeast (WL-028)
+* 1-2 vial(s) White Labs Edinburgh Ale Yeast (WLP-028)
 
 Steps
 -----
@@ -54,5 +54,5 @@ Final ABV:    12.8%!
 Additional Notes
 ----------------
 This beer stinks like hell when fermenting apparently? (Note: Settles after ~12 Weeks)
-The honey really takes over the final taste, future versions could up the ratio of malt to honey.
+The honey really takes over the final taste, future versions could up the ratio of malt to honey and add more hops.
 This recipe might really benefit from dry-hopping, the aroma is very simple and malty (reminiscent of toast bread?)
