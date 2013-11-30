@@ -47,9 +47,9 @@ Measurements
 ------------
 
 OG:           1.122@32C (1.125)   
-SG@2 Weeks:   1.050@24C (1.051)
-FG@19 Weeks   1.030@21C (1.030)
-Final ABV:    12.8%!
+SG@2 Weeks:   1.050@24C (1.051)  
+FG@19 Weeks   1.030@21C (1.030)  
+Final ABV:    12.8%!  
 
 Additional Notes
 ----------------
